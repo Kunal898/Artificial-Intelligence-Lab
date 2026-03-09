@@ -1,37 +1,26 @@
-# Artificial-Intelligence-Lab
+# 🤖 Artificial Intelligence Lab
 
-👨‍🎓 Name:Kunal Navdhinge
+## 👨‍🎓 Student Information
 
+| Field | Details |
+|------|--------|
+| **Name** | Kunal Navdhinge |
+| **Subject** | Artificial Intelligence |
+| **College** | SB Jain Institute of Technology, Management & Research, Nagpur |
+| **Semester / Year** | VI Semester / 3rd Year (Sec-B) |
+| **USN No.** | CS24D006 |
 
+---
 
-📘 Subject: Artificial Intelligence
+## 📘 About the Repository
 
+This repository contains **Artificial Intelligence laboratory practical programs** completed as part of the academic curriculum.
 
-🏫 College: SB Jain Nagpur
+Each practical includes:
 
+- 🎯 Aim  
+- 📖 Theory  
+- 💻 Program Code  
+- 📷 Output Screenshot  
 
-📆 Semester/Year: VI/3rd ( Sec- B )
-
-
-USN-No: CS24D006
-
-
-About
-This repository contains weekly AI practical programs performed in lab.
-
-Structure
-
-Practical-wise folder
-
-Each folder contains:
-Aim
-Theory
-Code
-Output screenshot
-Tools Used
-
-
-
-Python
-VS Code
-GitHub
+---
