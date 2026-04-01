@@ -1,0 +1,2 @@
+Aim: Demonstrate the concept of Semantic network on imputed
+predicate logic to represent the knowledge.
