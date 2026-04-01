@@ -1,0 +1,1 @@
+Aim: Implement Linear Regression to predict continuous values using a given dataset.
