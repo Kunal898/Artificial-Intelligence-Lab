@@ -1,0 +1,26 @@
+# AI Voice Assistant - Python Requirements
+# Install with: pip install -r requirements.txt
+
+# ── Core Speech ────────────────────────────────────────────────────────────────
+SpeechRecognition>=3.10.0       # Speech-to-text (wraps Google, Sphinx, etc.)
+pyaudio>=0.2.13                 # Microphone audio capture via PortAudio
+
+# ── Text-to-Speech ────────────────────────────────────────────────────────────
+pyttsx3>=2.90                   # Offline TTS engine (eSpeak/SAPI/NSSpeech)
+
+# ── System Information ────────────────────────────────────────────────────────
+psutil>=5.9.0                   # CPU, RAM, battery, disk metrics
+
+# ── GUI Automation (optional but recommended) ─────────────────────────────────
+pyautogui>=0.9.54               # Screenshot, keyboard/mouse automation
+
+# ── Standard Library (already included with Python) ───────────────────────────
+# tkinter     — GUI framework
+# os          — OS operations
+# subprocess  — Launch processes
+# webbrowser  — Open URLs
+# platform    — Platform detection
+# threading   — Background threads
+# difflib     — Fuzzy string matching
+# re          — Regex extraction
+# socket      — Network info
